@@ -1,0 +1,7 @@
+start
+accept number, sum=0
+is number less than zero  go step 5
+sum=sum+number 
+go back to step 1
+print sum 
+stop
